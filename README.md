@@ -94,13 +94,10 @@ See `team_docs/project_chronology.md` for full details.
 ---
 
 ## 👥 Team & Roles
-- **Anubha Mishra (Team Lead):** Architecture, integration, project management
-- **[Kernel Lead Name]:** Bootloader, kernel core, memory management
-- **[File System Lead Name]:** In-memory file system, file ops, defensive programming
-- **[Shell Lead Name]:** Shell interface, command parsing, user interaction
-- **[Process Lead Name]:** Process creation, scheduling, IPC
-
-*Replace bracketed names with actual team members!*
+- **Anubha Mishra (Team Lead):** Architecture, integration, project management,Bootloader , toolchain setup.
+- **Anish Negi:** Shell interface, command parsing, user interaction,kernel core, memory management
+- **Gaurab Rana:** In-memory file system, file ops, defensive programming
+- **Rachit Rawat:** Process creation, scheduling, IPC
 
 ---
 

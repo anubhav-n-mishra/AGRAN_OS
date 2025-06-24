@@ -94,7 +94,7 @@ See `team_docs/project_chronology.md` for full details.
 ---
 
 ## 👥 Team & Roles
-- **Anubha Mishra (Team Lead):** Architecture, integration, project management,Bootloader , toolchain setup.
+- **Anubhav Mishra (Team Lead):** Architecture, integration, project management,Bootloader , toolchain setup.
 - **Anish Negi:** Shell interface, command parsing, user interaction,kernel core, memory management
 - **Gaurab Rana:** In-memory file system, file ops, defensive programming
 - **Rachit Rawat:** Process creation, scheduling, IPC
